@@ -66,8 +66,7 @@ mod start_new_game {
 
     pub fn tick() -> anyhow::Result<super::State> {
         println!("Starting a new four-player game");
-        let player_name =
-            env::var("CHO_DAI_DI_PLAYER_NAME").unwrap_or_else(|_| "Player".to_string());
+        let player_name = env::var("DAI_DI_PLAYER_NAME").unwrap_or_else(|_| "Player".to_string());
         let play_state = play_game::State {
             game: card_games::cho_dai_di::new_4p_game(),
             players: vec![

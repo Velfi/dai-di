@@ -24,3 +24,5 @@ Starting a new four-player game
 Good luck Player! Enter "help" if you need some guidance.
 The player with the 3♦ will go first.
 ```
+
+To set your name in-game, set the `DAI_DI_PLAYER_NAME` environment variable.

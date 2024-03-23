@@ -102,7 +102,7 @@ impl Player for card_games::player::human::Player {
                 }
                 "" | "help" => {
                     println!("Enter the space-separated list of the cards you want to play");
-                    println!("For example: '2c 3h 4d 5s 6s' or '2C 2D 2H' or 'jc'");
+                    println!("For example: '2c 3h 4d 5s 6s' or '7C 7D 7H' or 'jc'");
                     println!("You may pass your turn: enter 'p' or 'pass'");
                     println!("You may quit the game: enter 'q' or 'quit'");
                     println!(
