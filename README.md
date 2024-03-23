@@ -1,3 +1,10 @@
+[![Crates.io][crates-badge]][crates-link] [![Documentation][docs-badge]][docs-link]
+
+[crates-badge]: https://img.shields.io/crates/v/dai-di.svg?maxAge=86400
+[docs-badge]: https://docs.rs/dai-di/badge.svg?maxAge=86400
+[docs-link]: https://docs.rs/dai-di/
+[crates-link]: https://crates.io/crates/dai-di/
+
 # Dai Di (a.k.a. Big Two)
 
 ## How do you play?
