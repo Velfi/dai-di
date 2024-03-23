@@ -1,12 +1,12 @@
 [package]
 name = "dai-di"
-version = "0.1.1"
+version = "0.1.2"
 edition = "2021"
+authors = ["Zelda Hessler <crates@zeldas.page>"]
 description = "A CLI implementation of the card game Dai Di (a.k.a. Big Two)"
 license = "MIT"
-authors = ["Zelda Hessler <crates@zeldas.page>"]
-documentation = ""
 homepage = "https://zeldas.page"
+documentation = "https://docs.rs/dai-di"
 repository = "https://github.com/Velfi/dai-di"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
