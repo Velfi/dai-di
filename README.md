@@ -6,11 +6,12 @@
 
 For a detailed explanation of the rules, see the [Wikipedia page](https://en.wikipedia.org/wiki/Big_two).
 
-Enter the space-separated list of the cards you want to play
-For example: `2c 3h 4d 5s 6s` or `2C 2D 2H` or `jc`
-You may toggle between sorting by rank and sorting by suit: enter `sort`
-You may pass your turn: enter `p` or `pass`
-You may quit the game: enter `q` or `quit`
+**Tips:**
+
+- Enter a space-separated list of the cards you want to play. For example: `2c 3h 4d 5s 6s` or `2C 2D 2H` or `jc`
+- You may toggle between sorting by rank and sorting by suit: enter `sort`
+- You may pass your turn: enter `p` or `pass`
+- You may quit the game: enter `q` or `quit`
 
 ## Installation & Usage
 
